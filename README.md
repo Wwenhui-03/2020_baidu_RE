@@ -11,3 +11,5 @@
 - [2019年第7名解决方案博客](https://kexue.fm/archives/6671)
 - [2019年第7名Keras源码](https://github.com/bojone/kg-2019)
 - [2019年第7名Pytorch源码](https://github.com/zhengyima/kg-baseline-pytorch)
+- [2019年第5名Keras源码](https://github.com/cdjasonj/CCF_IE)
+- [2019年BERT+CNN解决方案源码](https://github.com/Wangpeiyi9979/IE-Bert-CNN)
